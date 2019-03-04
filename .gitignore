@@ -3,6 +3,7 @@
 *.err
 *.orig
 *.log
+*.note
 *.rej
 *.swo
 *.swp
